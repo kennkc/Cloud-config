@@ -1,2 +1,6 @@
 version: 1.0
 profile: pro
+# 加解密根密码
+jasypt:
+  encryptor:
+    password: kenn #根密码
