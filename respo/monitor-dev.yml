@@ -4,3 +4,7 @@ spring:
     user:
       name: ENC(dgZ/yAQ91io2ZWR0ktsEzA==)     # pig
       password: ENC(dgZ/yAQ91io2ZWR0ktsEzA==) # pig
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 106.13.195.5:8848
