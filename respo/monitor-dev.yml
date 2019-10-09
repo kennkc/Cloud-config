@@ -2,5 +2,5 @@ spring:
   # 安全配置
   security:
     user:
-      name: ENC(8Hk2ILNJM8UTOuW/Xi75qg==)     # pig
-      password: ENC(o6cuPFfUevmTbkmBnE67Ow====) # pig
+      name: ENC(dgZ/yAQ91io2ZWR0ktsEzA==)     # pig
+      password: ENC(dgZ/yAQ91io2ZWR0ktsEzA==) # pig
