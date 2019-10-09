@@ -11,7 +11,7 @@ spring:
   # zipkin
   zipkin:
     enabled: true
-    base-url: http://kenn-zipkin
+    base-url: http://106.13.195.5:9411
   sleuth:
     web:
       client:
